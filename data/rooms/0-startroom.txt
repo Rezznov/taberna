@@ -1,0 +1,7 @@
+[ROOM DATA]
+0
+Start Room
+[DESC]
+This is the Start Room.
+You start here.
+[/DESC]
